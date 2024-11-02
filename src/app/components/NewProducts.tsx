@@ -6,56 +6,56 @@ const productsData =[
 {
     img:'/steel chain wach-1.jpg',
     title:"men hand wach",
-    desc:"pure steel chain wach",
+    desc:"pure steel chain watch",
     rating:4,
     price:"25$"
 },
 {
     img:'/lader wach-1.jpg',
-    title:"men hand wach",
-    desc:"pure lader wach",
+    title:"men hand watch",
+    desc:"pure lader watch",
     rating:4,
     price:"20$"
 },
 {
     img:'/lader wach-2.jpg',
-    title:"men hand wach",
-    desc:"pure lader wach",
+    title:"men hand watch",
+    desc:"pure lader watch",
     rating:4,
     price:"22$"
 },
 {
     img:'/sport wach-1.jpg',
-    title:"men hand wach",
-    desc:"pure lader wach",
+    title:"men hand watch",
+    desc:"pure lader watch",
     rating:4,
     price:"22$"
 },
 {
   img:'/pexels-ferarcosn-190819.jpg',
-  title:"men hand wach",
-  desc:"pure steel wach",
+  title:"men hand watch",
+  desc:"pure steel watch",
   rating:4,
   price:"30$"
 },
 {
   img:'/images (1).jpeg',
-  title:"men hand wach",
-  desc:"pure lader wach",
+  title:"men hand watch",
+  desc:"pure lader watch",
   rating:4,
   price:"20$"
 },
 {
   img:'/images.jpeg',
-  title:"men hand wach",
-  desc:"pure laderwach",
+  title:"men hand watch",
+  desc:"pure lader watch",
   rating:4,
   price:"20$"
 },
 {
     img:'/wall clock-1.jpg',
     title:"wall clock ",
-    desc:"pure  wach",
+    desc:"pure  watch",
     rating:4,
     price:"25$"
 }
